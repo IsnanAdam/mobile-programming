@@ -7,6 +7,9 @@ Membuat akun Medium
 Install Java
 ![Screenshot (68)](https://github.com/user-attachments/assets/5d45ce0b-53f2-4851-bc83-42e0a7fc9eec)
 
+Install Android Studio
+![Screenshot (71)](https://github.com/user-attachments/assets/48bf6574-c77c-4881-b8ca-de85f7bcda65)
+
 Install environment dan tool untuk menjalankan flutter
 ![Screenshot (67)](https://github.com/user-attachments/assets/b9322fa4-e84b-4656-8ebb-802b8362b25d)
 
